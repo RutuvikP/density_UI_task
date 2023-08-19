@@ -12,7 +12,7 @@ export default function HomeMid2() {
                 </VStack>
                 <Flex alignItems={'center'} justifyContent={'space-evenly'} mt={'5'}>
                     <Box>
-                        <Image src='https://storage.googleapis.com/web-api-media-uploads/media/Image_82bc2b66bc/Image_82bc2b66bc.svg'/>
+                        <Image src='https://storage.googleapis.com/web-api-media-uploads/media/Image_82bc2b66bc/Image_82bc2b66bc.svg' alt=''/>
                     </Box>
                     <VStack w={'30%'}>
                     <Text fontSize={'2xl'} color={'gray.700'}>

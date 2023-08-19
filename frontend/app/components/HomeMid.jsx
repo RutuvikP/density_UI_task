@@ -42,7 +42,7 @@ export default function HomeMid() {
             😠
           </span>
           <Text fontWeight={'bold'}>You argue with a colleague</Text>
-          <Text>You get angry and defensive, instead of staying open and working towards common ground.</Text>
+          <Text>You get angry and defensive instead of staying open and working towards common ground.</Text>
         </VStack>
         {/* 2nd */}
         <VStack className="cards" borderRadius={'10px'} w={'300px'} p={'15px'} bgColor={'blueviolet'}>
@@ -50,7 +50,7 @@ export default function HomeMid() {
             😯
           </span>
           <Text fontWeight={'bold'}>You get a promotion at work</Text>
-          <Text>You question yourself and wonder when they'll realize you're an unqualified imposter, instead of trusting yourself & your abilities.</Text>
+          <Text>You question yourself and wonder when they will realize you are an unqualified imposter instead of trusting yourself & your abilities.</Text>
         </VStack>
         {/* 3rd */}
         <VStack className="cards" borderRadius={'10px'} w={'300px'} p={'15px'} bgColor={'orange.100'}>
@@ -66,7 +66,7 @@ export default function HomeMid() {
             🤨
           </span>
           <Text fontWeight={'bold'}>You attend a class reunion</Text>
-          <Text>You compare yourself with your peers achievements, instead of making your self-judgement more independent of others.</Text>
+          <Text>You compare yourself with your peers achievements instead of making your self-judgment more independent of others.</Text>
         </VStack>
         {/* 5th */}
         <VStack className="cards" borderRadius={'10px'} w={'300px'} p={'15px'} bgColor={'gray.200'}>
@@ -74,7 +74,7 @@ export default function HomeMid() {
             😬
           </span>
           <Text fontWeight={'bold'}>You hit dead end in a negotiation</Text>
-          <Text>You get nervous, frazzled, and frustrated, instead of staying optimistic and solution-oriented.</Text>
+          <Text>You get nervous frazzled and frustrated instead of staying optimistic and solution-oriented.</Text>
         </VStack>
         {/* 6th */}
         <VStack className="cards" borderRadius={'10px'} w={'300px'} p={'15px'} bgColor={'purple.50'}>
@@ -82,7 +82,7 @@ export default function HomeMid() {
             😠
           </span>
           <Text fontWeight={'bold'}>You argue with a colleague</Text>
-          <Text>You get angry and defensive, instead of staying open and working towards common ground.</Text>
+          <Text>You get angry and defensive instead of staying open and working towards common ground.</Text>
         </VStack>
       </Flex>
     </>

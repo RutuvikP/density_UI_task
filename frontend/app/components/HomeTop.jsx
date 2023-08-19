@@ -19,7 +19,7 @@ export default function HomeTop() {
           </VStack>
           </HStack>
         </VStack>
-        <Image src="https://storage.googleapis.com/web-api-media-uploads/media/Image_1_8d38f94793/Image_1_8d38f94793.svg"/>
+        <Image src="https://storage.googleapis.com/web-api-media-uploads/media/Image_1_8d38f94793/Image_1_8d38f94793.svg" alt=""/>
       </Box>
     </Box>
     <Box display={'flex'} w={'80%'} m={'auto'} mt={'40px'} justifyContent={'space-between'}>
