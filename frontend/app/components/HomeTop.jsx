@@ -1,6 +1,6 @@
 'use client'
 
-import { Box, Heading, Image, Text, VStack } from "@chakra-ui/react"
+import { Box, HStack, Heading, Image, Text, VStack } from "@chakra-ui/react"
 import { Head } from "next/document"
 
 export default function HomeTop() {
@@ -11,9 +11,13 @@ export default function HomeTop() {
         <VStack w={'25%'} alignItems={'flex-start'}>
           <Text>Ahead app</Text>
           <Heading>Master your life by mastering emotions</Heading>
-          <Box mt={'10px'}>
+          <HStack mt={'10px'}>
           <Image src="https://www.ahead-app.com/images/app-store.svg"/>
-          </Box>
+          <VStack>
+            <Image src="https://www.ahead-app.com/images/five-stars.png"/>
+            <Text fontSize={'xs'}>100+ AppStore reviews</Text>
+          </VStack>
+          </HStack>
         </VStack>
         <Image src="https://storage.googleapis.com/web-api-media-uploads/media/Image_1_8d38f94793/Image_1_8d38f94793.svg"/>
       </Box>
